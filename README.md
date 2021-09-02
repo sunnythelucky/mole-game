@@ -7,7 +7,7 @@ Don't miss when they come up the hole and have their mouth open. <br/>
 It is a perfect chance for you to feed them before they turn around and show their fluffy tail.</p>
 
 <h2>Programming language</h2>
-`${JavaScript}` : practice data structure <br/>
+`JavaScript` : practice data structure <br/>
 `HTML` : simply structured HTML using `<div>` to divide each spaces for moles. <br/>
 `CSS` : practice different versions of CSS structure.
 
