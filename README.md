@@ -12,7 +12,7 @@ It is a perfect chance for you to feed them before they turn around and show the
 
 `HTML` : simply structured HTML using `<div>` to divide each spaces for moles. 
 
-`CSS` : practice different versions of CSS structure.
+`CSS` : practice different versions of mole's mood, cursors.
 
 
 ## Screenshot
