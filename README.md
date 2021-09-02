@@ -8,7 +8,7 @@ It is a perfect chance for you to feed them before they turn around and show the
 
 <h2>Programming language</h2>
 `JavaScript` : practice data structure <br/>
-`HTML` : simply structured HTML using `<div>` to divide each spaces for moles. <br/>
+`HTML` : simply structured HTML using '<div>' to divide each spaces for moles. <br/>
 `CSS` : practice different versions of CSS structure.
 
 <h2>Screenshot</h2>
