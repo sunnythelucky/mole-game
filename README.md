@@ -8,7 +8,7 @@ Don't miss when they come up the hole and have their mouth open.
 It is a perfect chance for you to feed them before they turn around and show their fluffy tail.
 
 ## Programming language
-`Vanilla JavaScript` : practice data structure 
+`JavaScript` : practice data structure 
 
 `HTML` : simply structured HTML using `<div>` to divide each spaces for moles. 
 
