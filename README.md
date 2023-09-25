@@ -1,5 +1,5 @@
 # mole-game
-mole game from the bootcamp at frontend masters 
+mole game from the boot camp at frontend masters 
 
 ## Instruction
 Feed the hungry mole and make them happy, please! 
@@ -8,11 +8,11 @@ Don't miss when they come up the hole and have their mouth open.
 It is a perfect chance for you to feed them before they turn around and show their fluffy tail.
 
 ## Programming language
-`JavaScript` : practice data structure 
+`JavaScript`: practice data structure 
 
-`HTML` : simply structured HTML using `<div>` to divide each spaces for moles. 
+`HTML`: simply structured HTML using `<div>` to divide each space for moles. 
 
-`CSS` : practice different versions of mole's mood, cursors.
+`CSS`: practice different versions of the mole's mood, and cursors.
 
 
 ## Screenshot
